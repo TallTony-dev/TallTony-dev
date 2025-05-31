@@ -3,7 +3,8 @@
 <!--
 **TallTony-dev/TallTony-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you s![animated_text](https://github.com/user-attachments/assets/29a022a0-7d74-4ec2-8c6b-a694f0dfbd05)
+tarted:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
