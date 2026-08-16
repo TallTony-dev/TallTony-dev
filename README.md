@@ -1,4 +1,4 @@
 ## Hi there 👋
 <!-- ![fixed github-gif](https://github.com/user-attachments/assets/35393c27-bb26-4eed-8499-e7c10d4f765e) -->
 
-I'm a first year Computer Engineering student at UWaterloo from Nova Scotia who is currently interested in learning embedded systems, and the firmware programming and circuit design that comes along with it, but have also always been interested in development with .NET, especially using Monogame.
+I'm a first year Computer Engineering student at UWaterloo from Nova Scotia who is currently interested in learning embedded systems, and the firmware programming and circuit design that comes along with it, but have also always been interested in development with .NET, especially using Monogame. Any usage of LLMs or GenAI anywhere in my work is marked via comments if made within the past yearish, and my personal policy is that I will only use them after about 15 minutes debugging something where I can't find an issue. It's depressing to use on personal projects and I feel reliance on artificial reasoning takes the joy out of life generally, and can be problematic.
